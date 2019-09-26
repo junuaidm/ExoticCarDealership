@@ -1,0 +1,9 @@
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\bin\Debug\netcoreapp2.1\Exotic.Resources.deps.json
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\bin\Debug\netcoreapp2.1\Exotic.Resources.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\bin\Debug\netcoreapp2.1\Exotic.Resources.pdb
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.csprojAssemblyReference.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.csproj.CoreCompileInputs.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.AssemblyInfoInputs.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.AssemblyInfo.cs
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.Resources\obj\Debug\netcoreapp2.1\Exotic.Resources.pdb
