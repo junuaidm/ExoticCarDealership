@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Exotic.VM/1.0.0": {
+        "dependencies": {
+          "Exotic.Resources": "1.0.0",
+          "Exotic.Utilities": "1.0.0"
+        },
+        "runtime": {
+          "Exotic.VM.dll": {}
+        }
+      },
+      "Exotic.Resources/1.0.0": {
+        "runtime": {
+          "Exotic.Resources.dll": {}
+        }
+      },
+      "Exotic.Utilities/1.0.0": {
+        "dependencies": {
+          "Exotic.Resources": "1.0.0"
+        },
+        "runtime": {
+          "Exotic.Utilities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exotic.VM/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exotic.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Exotic.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

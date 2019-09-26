@@ -1,0 +1,14 @@
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.VM.deps.json
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.VM.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.VM.pdb
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.Resources.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.Utilities.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.Resources.pdb
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\bin\Debug\netcoreapp2.1\Exotic.Utilities.pdb
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.csprojAssemblyReference.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.csproj.CoreCompileInputs.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.AssemblyInfoInputs.cache
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.AssemblyInfo.cs
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.csproj.CopyComplete
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.dll
+D:\Junaid-PC\SampleApp\Exotic.Web\Exotic.VM\obj\Debug\netcoreapp2.1\Exotic.VM.pdb
